@@ -4,8 +4,9 @@
 ### Start the project with Ironlauncher
 
 ```bash
-$ npx ironlauncher <ProjectName>
+$ npx ironlauncher@latest <ProjectName>
 ```
+Choose: 'views' and 'no authorization' 
 or if you have ironlauncher installed globally
 ```bash
 $ ironlauncher <ProjectName>
